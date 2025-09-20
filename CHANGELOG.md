@@ -2,6 +2,50 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2025-09-20)
+
+<section class="features">
+
+### Features
+
+-   [`96ea877`](https://github.com/stdlib-js/stdlib/commit/96ea8778698f2979de10ac6d62d91b0d6bd65cae) - add support for struct and data type objects
+
+</section>
+
+<!-- /.features -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`96ea877`](https://github.com/stdlib-js/stdlib/commit/96ea8778698f2979de10ac6d62d91b0d6bd65cae) - **feat:** add support for struct and data type objects _(by Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Athan Reines
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-28)
